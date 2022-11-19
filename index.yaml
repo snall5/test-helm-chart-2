@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  my-second-chart:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-11-19T18:36:02.592032469Z"
+    description: A Helm chart for Kubernetes
+    digest: 9566548061f64925d7a20cc5e70d17e0b7c2cb64a88692abc04a021ff8655e2c
+    name: my-second-chart
+    type: application
+    urls:
+    - https://github.com/snall5/test-helm-chart-2/releases/download/my-second-chart-0.1.0/my-second-chart-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-11-19T18:36:02.266964562Z"
